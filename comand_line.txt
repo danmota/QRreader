@@ -1,0 +1,1 @@
+python QRreader.py --image download.jpg
